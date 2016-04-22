@@ -1,9 +1,12 @@
-Trees!
-------
+Getting the code
+-----------------
 
 To grab all the code, clone this repo locally with the following command (in your terminal)
 
     git clone https://github.com/scohe001/Tree.git
+
+Exercises
+---------
 
 Once you've got it all, begin the following exercises (they can also be found in comments at the end of tree.h):
 
