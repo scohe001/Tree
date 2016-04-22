@@ -43,7 +43,7 @@ public:
 //
 // 5. Write an avg function to find the mean of all of the values in the tree
 //
-// 5. Overload the == operator so we can check if two trees are equal. Remember
+// 6. Overload the == operator so we can check if two trees are equal. Remember
 //      that comparing pointers won't get you anywhere since two trees can be
 //      equivalent, but with their data in different places!
 //
